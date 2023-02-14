@@ -13,3 +13,7 @@ Data Analysis with Python: is a practical and beginner-friendly introduction to 
   
 2 - Numerical Computing with Python and Numpy
   - Basics to Advance
+
+3 - python_pandas_data_analysis
+
+4 - 
