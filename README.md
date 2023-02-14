@@ -9,3 +9,4 @@ Data Analysis with Python: is a practical and beginner-friendly introduction to 
   - python-variables-and-data-types
   - python-branching-and-loops
   - python-functions-and-scope
+  - python-os-and-filesystem
