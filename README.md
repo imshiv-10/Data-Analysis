@@ -10,3 +10,5 @@ Data Analysis with Python: is a practical and beginner-friendly introduction to 
   - python-branching-and-loops
   - python-functions-and-scope
   - python-os-and-filesystem
+2 - Numerical Computing with Python and Numpy
+  - Basics to Advance
